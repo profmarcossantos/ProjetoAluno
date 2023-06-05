@@ -1,4 +1,4 @@
 from funcoes import limpartTela
 
 limpartTela()
-print("Olá Mundo!")
+print("Hello World!")
