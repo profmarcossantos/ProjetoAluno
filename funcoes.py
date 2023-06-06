@@ -9,4 +9,4 @@ def aguardar(s):
 
 
 def criadoPor():
-    print("Criado por Marcos R. Santos")
+    print("Criado por Marcos R. Santos e Victor Morais")
